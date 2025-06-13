@@ -1,0 +1,10 @@
+name = "Ising"
+uuid = "1b5c6d53-2620-47c4-a3ab-7da4359ce585"
+authors = ["wasaseki <makiharu192@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
+
+[compat]
+LaTeXStrings = "1.4.0"
